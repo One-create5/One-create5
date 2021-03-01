@@ -23,5 +23,5 @@
 
 
 [website]:() 
-[instagram]:(https://www.instagram.com/lucky_conquerorr)
-[linkedin]:(www.linkedin.com/in/juan-a-mateos)
+[instagram]: https://www.instagram.com/lucky_conquerorr
+[linkedin]: www.linkedin.com/in/juan-a-mateos
