@@ -1,7 +1,7 @@
 ### Hi there, I'm Juan 👋
 
 ## I am a Computer Science student
-- 🔭 I'm currently working on a [web app that helps create a workout plan][website]
+- 🔭 I'm currently working on a web app that helps create a workout plan: [Gym Buddy][website]
 - 🌱 I'm currently learning currently studying C#, SQL, ASP.NET, and :cloud: development through Azure
 - :goal_net: 2021 Goals: Improve my overall skills as a software Engineer
 - ⚡ Fun fact: I love training Muay Thai :boxing_glove: 
