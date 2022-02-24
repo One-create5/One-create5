@@ -1,9 +1,9 @@
 ### Hi there, I'm Juan 👋
 
-## I am a Computer Science student
+## I am a Software Engineer Apprentice at Amazon.
 - 🔭 I'm currently working on a web app that helps create a workout plan: [Gym Buddy][website]
-- 🌱 I'm currently learning C#, SQL, ASP.NET, and :cloud: development through Azure
-- :goal_net: 2021 Goals: Improve my overall skills as a software Engineer
+- 🌱 I'm currently learning Java, Linux, AWS, and Pyton.
+- :goal_net: 2022 Goals: Improve my System Design skills
 - ⚡ Fun fact: I love training Muay Thai :boxing_glove: 
 
 ### Connect with me:
