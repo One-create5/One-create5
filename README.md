@@ -1,6 +1,5 @@
-### Hi there, I'm Juan 👋
+## Hi there, I'm Juan 👋
 
-## I'm a Software Engineer Apprentice at Amazon.
 - 🔭 I'm currently working on a web app that helps create a workout plan: [Gym Buddy][website]
 - 🌱 I'm currently learning Java, Linux, AWS, and Pyton.
 - :goal_net: 2022 Goals: Improve my System Design skills
