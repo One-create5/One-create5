@@ -25,9 +25,6 @@
 [<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />][icon website]
 <br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=One-create5&layout=compact)](https://github.com/One-create5/github-readme-stats)
-
 [icon website]: https://simpleicons.org/
 [website]: https://github.com/One-create5/Gym-Buddy
 [instagram]: https://www.instagram.com/lucky_conquerorr
