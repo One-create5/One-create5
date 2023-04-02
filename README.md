@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on a web app that helps create a workout plan: [Gym Buddy][website]
 - 🌱 I'm currently learning Java, Linux, AWS, and Pyton.
-- :goal_net: 2022 Goals: Improve my System Design skills
+- :goal_net: 2023 Goals: Improve my System Design skills
 - ⚡ Fun fact: I love training Muay Thai :boxing_glove: 
 
 ### Connect with me:
