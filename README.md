@@ -1,7 +1,7 @@
 ## Hi there, I'm Juan 👋
 
-- 🔭 I'm currently working on a web app that helps create a workout plan: [Gym Buddy][website]
-- 🌱 I'm currently learning Java, Linux, AWS, and Pyton.
+- 🔭 I'm currently working on an IOS app. 
+- 🌱 I'm learning IOS development, AWS, and Java.
 - :goal_net: 2023 Goals: Improve my System Design skills
 - ⚡ Fun fact: I love training Muay Thai :boxing_glove: 
 
