@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on an IOS app. 
 - 🌱 I'm learning IOS development, AWS, and Java.
-- :goal_net: 2023 Goals: Improve my System Design skills
+- :goal_net: 2024 Goals: Deploy an app on App store
 - ⚡ Fun fact: I love training Muay Thai :boxing_glove: 
 
 ### Connect with me:
