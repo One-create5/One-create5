@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on an iOS app. 
 - 🌱 I'm learning IOS development
-- :goal_net: 2024 Goals: Deploy an app on the App Store
+- :goal_net: 2025 Goals: Learn ML fundamentals
 
 ### Connect with me:
 
