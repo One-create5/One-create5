@@ -1,8 +1,9 @@
 ## Hi there, I'm Juan 👋
 
-- 🔭 I'm currently working on an iOS app. 
-- 🌱 I'm learning IOS development
-- :goal_net: 2025 Goals: Learn ML fundamentals
+- 🔭 I’m currently doing research on how to test whether large language model outputs stay faithful and consistent across local and API models.
+- 🛠️ I’m working on automating Linux systems using Bash and configuration tools like Ansible.
+- 🌱 I’m building deeper understanding of how LLMs generate outputs, including reasoning behavior and evaluation methods.
+- 🎯 2026 Goals: Develop practical ways to evaluate LLM faithfulness and reasoning while strengthening my ML and systems automation skills.
 
 ### Connect with me:
 
