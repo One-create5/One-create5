@@ -1,9 +1,7 @@
 ## Hi there, I'm Juan 👋
-
-- 🔭 I’m currently doing research on how to test whether LLM outputs stay faithful and consistent across local and API models.
-- 🛠️ I’m working on automating Linux systems using Bash and configuration tools like Ansible.
-- 🌱 I’m building deeper understanding of how LLMs generate outputs, including reasoning behavior and evaluation methods.
-- 🎯 2026 Goals: Develop practical ways to evaluate LLM faithfulness and reasoning while strengthening my ML and systems automation skills.
+- ⚡ I'm working on making LLMs faster on limited hardware by improving how embedding tables are stored and fetched from SSDs.
+- 🌱 I'm learning more about graph neural networks, LLM systems, and how to evaluate model outputs.
+- 🎯 2027 Goals: Publish research in ML and LLM systems and grow into an AI/ML engineer role.
 
 ### Connect with me:
 
